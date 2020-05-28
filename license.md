@@ -5,7 +5,7 @@
 ##All rights reserved. 
 1. I have sole ownership of intellectual property rights to my Submissions and 
 I am not making Submissions in the course of work for my Employer or Employer Company or a Parent Corporation or Subsidiary Corporation of the Company.
-2. All data and code generator using my own home workstation and my own accounts subscribe in the cloud providers. 
+2. All data and code generator using my own home workstation and my all own accounts subscribe in the cloud providers.
 
 • No part of this Software may be reproduced, distributed, or transmitted in any form or by any means
 without the prior written permission of the publisher,
@@ -24,5 +24,3 @@ INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PA
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
-
-
